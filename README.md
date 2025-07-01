@@ -50,12 +50,6 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle piece
 
 ---
 
-## 👤 **Made by SeasonerSpeed**
-
-> Built for the Roblox BABFT community ❤️
-
----
-
 ## 📜 **License**
 
 Free to use for personal projects. Contact for redistribution or modified release permissions.
