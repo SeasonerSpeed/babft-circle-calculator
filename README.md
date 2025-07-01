@@ -1,1 +1,62 @@
-# babft-circle-calculator
+# 🛠️ BABFT Circle Calculator
+
+A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle piece scaling. Made for easier and more accurate circle building.
+
+![App Preview](preview.png) <!-- If you add a preview image -->
+
+---
+
+## ✨ **Features**
+
+✅ Auto-calculates Width Scale (one side & both sides)  
+✅ Supports 5°, 10°, 15°, and 30° rotation circles  
+✅ Copy outputs to clipboard easily  
+✅ Checks for updates automatically  
+✅ Lightweight .exe for Windows
+
+---
+
+## 💾 **How to Install**
+
+1. Download the latest `.exe` release from [releases](https://github.com/YourUsername/babft-circle-calculator/releases).  
+2. Place it anywhere on your PC (Desktop for quick access).  
+3. Double-click to open.
+
+---
+
+## 🖥️ **How to Use**
+
+1. Enter your **piece length (diameter)** in the input box.
+2. Select your **desired rotation** from the dropdown.
+3. Click **Calculate**.
+4. The app will display:
+   - Width Scale (One Side)
+   - Width Scale (Both Sides)
+5. Click **Copy (One Side)** or **Copy (Both Sides)** to copy your preferred output to clipboard.
+
+---
+
+## 🔄 **Update Checking**
+
+- On startup, the app automatically checks for the latest version hosted on this GitHub repo.  
+- If an update is available, it will notify you with the latest version info.
+
+---
+
+## ⚠️ **Notes**
+
+- This tool only supports **rotation-based scaling** as per BABFT building tutorials.
+- Always double-check scales in-game for precision before final build uploads.
+
+---
+
+## 👤 **Made by SeasonerSpeed**
+
+> Built for the Roblox BABFT community ❤️
+
+---
+
+## 📜 **License**
+
+Free to use for personal projects. Contact for redistribution or modified release permissions.
+
