@@ -1,6 +1,6 @@
 # 🛠️ BABFT Circle Calculator
 
-A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scaling. Made for easier and more accurate circle building. **WARNING** THIS SOMETIMES DOESN'T WORK IF THE NUMBER IS TOO BIG (Mostly accurate though)
+A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scaling. Made for easier and more accurate circle building.
 
 ![App Preview](https://github.com/SeasonerSpeed/babft-circle-calculator/blob/main/images/preview.png) <!-- If you add a preview image -->
 
@@ -26,16 +26,39 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scali
 
 ## 🖥️ **How to Use**
 
-1. Enter your **diameter** in the input box.  
+1. **Enter your diameter** in the input box.  
    
-   ![How to Find Diameter](https://github.com/SeasonerSpeed/babft-circle-calculator/blob/main/images/diameter.png)  
+   ![How to Find Diameter](https://github.com/SeasonerSpeed/babft-circle-calculator/blob/main/images/diameter.png)
 
-2. Select your **desired rotation** from the dropdown.  
-3. Click **Calculate**.  
-4. The app will display:  
-   - Width Scale (One Side)  
-   - Width Scale (Both Sides)  
-5. Click **Copy (One Side)** or **Copy (Both Sides)** to copy your preferred output to clipboard.
+2. **Select what to calculate.**  
+   - Currently supports **circle scaling**.  
+   - *(Upcoming: sphere and cone calculators)*
+
+3. **Choose your desired rotation** from the dropdown.
+
+4. Click **Calculate**.
+
+5. View your results:  
+   - **Width Scale (One Side)**  
+   - **Width Scale (Both Sides)**
+
+6. **Copy your output** using the **Copy (One Side)** or **Copy (Both Sides)** buttons.
+
+7. **Use it in BABFT:**  
+   - If you copied **One Side**, scale your part bigger or smaller depending on if the number is positive or negative.  
+   - If you copied **Both Sides**, scale it equally on both sides.
+
+8. **Clone your circle parts** around to build a full circle.
+
+---
+
+### 📝 **Update Ideas**
+
+- ✅ Add **Sphere Calculator**  
+- ✅ Add **Cone Calculator**  
+- 🔄 UI update for multiple calculation selections  
+- 🔄 Enhanced formula accuracy for large builds
+
 
 ---
 
