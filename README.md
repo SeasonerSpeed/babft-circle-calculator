@@ -1,6 +1,6 @@
 # 🛠️ BABFT Circle Calculator
 
-A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle piece scaling. Made for easier and more accurate circle building.
+A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scaling. Made for easier and more accurate circle building.
 
 ![App Preview](preview.png) <!-- If you add a preview image -->
 
@@ -26,7 +26,7 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle piece
 
 ## 🖥️ **How to Use**
 
-1. Enter your **piece length (diameter)** in the input box.
+1. Enter your **diameter** in the input box.
 2. Select your **desired rotation** from the dropdown.
 3. Click **Calculate**.
 4. The app will display:
