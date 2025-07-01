@@ -26,12 +26,15 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scali
 
 ## 🖥️ **How to Use**
 
-1. Enter your **diameter** in the input box.
-2. Select your **desired rotation** from the dropdown.
-3. Click **Calculate**.
-4. The app will display:
-   - Width Scale (One Side)
-   - Width Scale (Both Sides)
+1. Enter your **diameter** in the input box.  
+   
+   ![How to Find Diameter](images/diameter_example.png)  
+
+2. Select your **desired rotation** from the dropdown.  
+3. Click **Calculate**.  
+4. The app will display:  
+   - Width Scale (One Side)  
+   - Width Scale (Both Sides)  
 5. Click **Copy (One Side)** or **Copy (Both Sides)** to copy your preferred output to clipboard.
 
 ---
