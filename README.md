@@ -18,9 +18,9 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scali
 
 ## 💾 **How to Install**
 
-1. Download the latest `.exe` release from [releases](https://github.com/YourUsername/babft-circle-calculator/releases).  
-2. Place it anywhere on your PC (Desktop for quick access).  
-3. Double-click to open.
+1. Download the latest `.zip` release from [releases](https://github.com/SeasonerSpeed/babft-circle-calculator/releases).  
+2. Extract the `.zip` file to a folder anywhere on your PC (Desktop for quick access).  
+3. Inside the extracted folder, double-click the `.exe` file to run the app.
 
 ---
 
@@ -48,7 +48,7 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scali
 
 ## ⚠️ **Notes**
 
-- This tool only supports **rotation-based scaling** as per BABFT building tutorials.
+- This tool only supports **rotation-based scaling** as per BABFT building tutorials.  
 - Always double-check scales in-game for precision before final build uploads.
 
 ---
@@ -56,4 +56,3 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scali
 ## 📜 **License**
 
 Free to use for personal projects. Contact for redistribution or modified release permissions.
-
