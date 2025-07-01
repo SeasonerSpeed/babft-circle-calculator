@@ -2,7 +2,7 @@
 
 A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scaling. Made for easier and more accurate circle building.
 
-![App Preview](preview.png) <!-- If you add a preview image -->
+![App Preview]((https://github.com/SeasonerSpeed/babft-circle-calculator/blob/main/images/preview.png)) <!-- If you add a preview image -->
 
 ---
 
