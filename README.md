@@ -72,7 +72,6 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scali
 ## ⚠️ **Notes**
 
 - This tool only supports **rotation-based scaling** as per BABFT building tutorials.  
-- Always double-check scales in-game for precision before final build uploads.
 
 ---
 
