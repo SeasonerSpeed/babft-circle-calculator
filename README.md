@@ -52,20 +52,8 @@ A simple tool to calculate Roblox Build A Boat For Treasure (BABFT) circle scali
 
 ---
 
-### 📝 **Update Ideas**
-
-- ✅ Add **Sphere Calculator**  
-- ✅ Add **Cone Calculator**  
-- 🔄 UI update for multiple calculation selections  
-- 🔄 Enhanced formula accuracy for large builds
-
-
----
-
-## 🔄 **Update Checking**
-
-- On startup, the app automatically checks for the latest version hosted on this GitHub repo.  
-- If an update is available, it will notify you with the latest version info.
+> 💡 **Tip:**  
+> If you're having trouble understanding how to use this tool, check out the [YouTube tutorial here](https://www.youtube.com/watch?v=dmz-S7B-4B8) for a quick walkthrough.
 
 ---
 
